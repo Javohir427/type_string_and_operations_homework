@@ -10,7 +10,7 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return (str(last)+str(' , ')+str(first))
+    return (str(last)+str(', ')+str(first))
 
 print(main('Javohir','Ortiqxojayev'))  
 

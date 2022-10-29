@@ -12,5 +12,5 @@ def main(first,last):
     """
     return (str(last)+str(' ')+str(first))
 
-print(main('Javohir','Ortiqxojayev'))
+print(main('Javohir','Ortiqxojayev'))  
 

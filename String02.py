@@ -1,3 +1,6 @@
+
+
+
 def main():
     """
     Return a string consisting only of uppercase.
@@ -6,4 +9,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    return ('CODESCOOL')
+
+print(main())

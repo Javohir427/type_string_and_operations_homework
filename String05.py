@@ -7,7 +7,7 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    return (str(s1)+str('  ')+str(s2))
+    return (str(s1)+str(" ")+str(s2))
 
 print(main('tatu','bahri'))
 

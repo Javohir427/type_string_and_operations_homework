@@ -11,6 +11,9 @@ def main(x1,x2,x3):
     Returns:
         str: return answer.
     """
-    return ([(x1), (x2), (x3)])
+    a=str(x1)
+    b=str(x2)
+    c=str(x3)
+    return '[' + a + ', ' + b + ', ' + c + ']'
 print(main(1,2,3)) 
    

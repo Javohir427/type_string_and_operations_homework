@@ -1,3 +1,6 @@
+
+
+
 def main(first,last):
     """
     Given two strings, first_name and last_name, return a single string in the format "last, first".
@@ -7,4 +10,7 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return 
+    return (str(last)+str(' ')+str(first))
+
+print(main('Javohir','Ortiqxojayev'))
+
